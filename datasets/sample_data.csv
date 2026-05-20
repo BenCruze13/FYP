@@ -1,0 +1,10 @@
+date,product_name,category,cost_price,selling_price,quantity_sold,revenue
+2026-05-01,Smart TV 55in,Electronics,400.00,600.00,10,6000.00
+2026-05-01,Wireless Headphones,Accessories,50.00,120.00,25,3000.00
+2026-05-02,Smart TV 55in,Electronics,400.00,600.00,15,9000.00
+2026-05-02,Bluetooth Speaker,Accessories,30.00,80.00,30,2400.00
+2026-05-03,Laptop Pro 15in,Computers,800.00,1200.00,5,6000.00
+2026-05-03,Wireless Headphones,Accessories,50.00,120.00,20,2400.00
+2026-05-04,Smart TV 55in,Electronics,400.00,600.00,12,7200.00
+2026-05-04,Laptop Pro 15in,Computers,800.00,1200.00,8,9600.00
+2026-05-05,Bluetooth Speaker,Accessories,30.00,80.00,40,3200.00

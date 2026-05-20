@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+prophet
+pandas
+"numpy<2.0"
+holidays
+pydantic
+mysql-connector-python
+python-dotenv
